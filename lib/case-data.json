@@ -1,0 +1,1461 @@
+{
+ "figures": {
+  "F1": {
+   "src": "/figures/F1.png",
+   "caption": "R01 p. 33 — Notice to Quit dated April 8, 2026 (Complaint Exhibit 2), page 1 of 3. The stated grounds include defendant's February 25, 2026 petition for an Elder/Dependent Adult Abuse Restraining Order against the Assistant Property Manager, and “over one thousand (1,000) lengthy emails” to management — the written-communication channel that is defendant's disability accommodation.",
+   "page": 33
+  },
+  "F2": {
+   "src": "/figures/F2.png",
+   "caption": "R01 p. 35 — Notice to Quit, page 3 of 3. States that the tenancy “is exempt from the provisions of the San Francisco Residential Rent Stabilization and Arbitration Ordinance,” is dated 4/8/2026, signed by Jerome Bradford “For Swords to Plowshares,” and copied to the San Francisco Housing Authority and SF DHSH before any adjudication.",
+   "page": 35
+  },
+  "F3": {
+   "src": "/figures/F3.png",
+   "caption": "R01 p. 5 — Complaint (UD-100) page 3, items 9–14. Plaintiff pleads that the notice expired 4/16/2026, that it was served by posting on 4/8/2026 and mailing on 4/8/2026 “because no person of suitable age or discretion can be found there,” that proof of service of the notice is attached as Exhibit 3, and that fair rental value is $37.53 per day.",
+   "page": 5
+  },
+  "F4": {
+   "src": "/figures/F4.png",
+   "caption": "R01 p. 55 — Verification of the Complaint, signed by Jerome Bradford on 5/4/2026 as an “authorized employee” declaring the facts “within my personal knowledge.” Mr. Bradford also signed the notice; he is the person whose presence at the claimed posting is disputed.",
+   "page": 55
+  },
+  "F5": {
+   "src": "/figures/F5.png",
+   "caption": "R01 p. 56 — Civil Case Cover Sheet (CM-010), FILED May 5, 2026, designating the case as a limited civil matter; counsel John P. Zanghi and Charity Martinez, Zanghi Torres Adams LLP.",
+   "page": 56
+  },
+  "F6": {
+   "src": "/figures/F6.png",
+   "caption": "R02 p. 1 — Plaintiff's Ex Parte Application for an order permitting service of the summons by posting (Code Civ. Proc., § 415.45), filed May 19, 2026 — two days after defendant's Answer was dated and while defendant's address, email and telephone were known to counsel from the related restraining-order case.",
+   "page": 1
+  },
+  "F7": {
+   "src": "/figures/F7.png",
+   "caption": "R05 p. 1 — Proof of Service of Summons (POS-010), items 2–4: documents served include the Prejudgment Claim of Right of Possession; the party served (item 3a) is “All Unnamed Occupants.” No POS-010 naming Donald Gillson as the party served appears in the record.",
+   "page": 1
+  },
+  "F8": {
+   "src": "/figures/F8.png",
+   "caption": "R05 p. 2 — POS-010 continued: service “Per CCP 415.45 By posting the documents on the premises … on Thurs, June 4 2026 at 11:03 AM, and by causing copies to be mailed by certified mail on Thurs, June 4 2026”; server Joseph Falanga, Spirit Courier, Reg. No. 1539; signed 6/12/2026; filed 06/30/2026 — the same day default was entered.",
+   "page": 2
+  },
+  "F9": {
+   "src": "/figures/F9.png",
+   "caption": "R03 p. 1 — Request for Entry of Default (CIV-100), electronically filed 06/30/2026, stamped “DEFAULT ENTERED AS REQUESTED” by the clerk the same day.",
+   "page": 1
+  },
+  "F10": {
+   "src": "/figures/F10.png",
+   "caption": "R04 p. 1 — Judgment — Unlawful Detainer (UD-110), clerk's judgment by default for possession only ($0.00), “DEFAULT JUDGMENT ENTERED” 06/30/2026.",
+   "page": 1
+  },
+  "F11": {
+   "src": "/figures/F11.png",
+   "caption": "R06 p. 1 — Notice of Entry of Judgment, electronically filed 07/01/2026 by Zanghi Torres Adams LLP; the accompanying POS-030 (R06 p. 3) is signed by Itzayana Flores and states the notice was placed for mailing to 1030 Girard Road, Unit #301A on 07/01/2026.",
+   "page": 1
+  },
+  "F12": {
+   "src": "/figures/F12.png",
+   "caption": "R08 p. 1 — Defendant's Emergency Ex Parte Application (stay of execution / recall of writ / set aside default), FILED July 7, 2026, seven days after the default judgment and six days after notice of entry was mailed.",
+   "page": 1
+  },
+  "F13": {
+   "src": "/figures/F13.png",
+   "caption": "R10 p. 1 — Order re Defendant's Ex Parte Application, FILED July 8, 2026 (heard July 7, 2026); served by the clerk on both sides on July 8, 2026.",
+   "page": 1
+  },
+  "F14": {
+   "src": "/figures/F14.png",
+   "caption": "R10 p. 2 — The July 8, 2026 order (Hon. Charles F. Haines): hearing on a Motion to Vacate Default and Default Judgment set for July 22, 2026; defendant's July 7 papers deemed the moving papers; plaintiff to oppose by July 14 and defendant to reply by July 17; “The writ issued on July 1, 2026 shall not be executed prior to July 22, 2026.”",
+   "page": 2
+  }
+ },
+ "statement": [
+  {
+   "type": "phase",
+   "text": "STRUCTURE OF THIS STATEMENT"
+  },
+  {
+   "type": "h2",
+   "text": "Reader's Map"
+  },
+  {
+   "type": "p",
+   "text": "This statement is organized on the ADDIE model (Analyze, Design, Develop, Implement, Evaluate) so that a reader coming to the file cold can follow it in one pass, and on SAM (Successive Approximation) within each chronology section: the record is shown, then checked, then carried forward. Each phase is labeled where it begins. Each chronology section closes with a Checkpoint stating what the record shows, what it omits, and what is asked of the Court on that point."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Phase",
+     "Part",
+     "Purpose for the Court"
+    ],
+    [
+     "Analyze",
+     "I–II",
+     "What this case is, who the parties are, and what question is actually before the Court."
+    ],
+    [
+     "Design",
+     "I ¶ 2; VI",
+     "How the record is cited (R01–R10, Tabs A–M), how figures map to Bates pages, and how to verify any sentence."
+    ],
+    [
+     "Develop",
+     "III A–J",
+     "The chronology, built from plaintiff's own filings, with the relevant page reproduced at the point it is discussed."
+    ],
+    [
+     "Implement",
+     "IV",
+     "The contradictions applied: each representation set against the paper that contradicts it."
+    ],
+    [
+     "Evaluate",
+     "V; Verification",
+     "The issues for trial, the relief requested, and the declarant's verification under penalty of perjury."
+    ]
+   ]
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 1 — ANALYZE"
+  },
+  {
+   "type": "h2",
+   "text": "I. Nature of the Action and How to Read This Statement"
+  },
+  {
+   "type": "n",
+   "text": "This is a residential unlawful detainer for possession only. Judgment was entered by clerk's default on June 30, 2026 for $0.00 (R04). Defendant, a service-connected disabled veteran proceeding in propria persona under the Court's rule 1.100 accommodation orders (Tab K), contends the action is retaliatory on the face of plaintiff's own notice, rests on a notice and a service record that do not withstand inspection, and was pushed to default while defendant's Answer and accommodation request were in the Court's hands."
+  },
+  {
+   "type": "n",
+   "text": "Every factual statement below carries a record cite. “R01” through “R10” are the ten filed court documents reproduced in full at Tab H, Bates-numbered; the same documents were separately downloaded from the Court's docket on October 31, 2026 under document numbers 10197292, 10224145, 10294374, 10294375, 10294379, 10297112–10297114, 10303427, 10303428 and 10306382, and are identical. Where a page matters, it is reproduced inline as a numbered figure so the Court can read the assertion and the page together. The cropping is for legibility only; the full page is at the cited Bates location."
+  },
+  {
+   "type": "h2",
+   "text": "II. Parties and Premises"
+  },
+  {
+   "type": "n",
+   "text": "Plaintiff Swords to Plowshares, a California nonprofit, is the housing provider for the Jon W. Paulson Veterans Community at 1030 Girard Road, in the Presidio of San Francisco. It is also a veterans' advocacy organization. Its property management and clinical functions are performed by the same personnel who are the complaining witnesses here (R01 pp. 33–35; Tab C)."
+  },
+  {
+   "type": "n",
+   "text": "Defendant Donald Ernest Gillson, Ed.D., has occupied Unit 301A under a HUD-VASH / project-based subsidy tenancy. He has service-connected PTSD and traumatic brain injury, uses a psychiatric service dog, and since November 20, 2025 has had a written request for reasonable accommodation pending with plaintiff, the core of which is that management communicate with him in writing (R09, Answer, First and Second Affirmative Defenses; Tab K)."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 3 — DEVELOP (SAM: show the record, check it, carry it forward)"
+  },
+  {
+   "type": "h2",
+   "text": "III. Chronology, With the Record"
+  },
+  {
+   "type": "h3",
+   "text": "A. Protected activity preceding the notice (November 2025 – March 2026)"
+  },
+  {
+   "type": "n",
+   "text": "November 20, 2025: defendant's written Reasonable Accommodation Request (R09, Answer, First Aff. Def., citing evidence node GMAIL-02-RAR). December 23, 2025: accommodation consensus on written, email-based communication reached among defendant, Joel Champion and Kobe (Kolby) Losik (Tab D, Ex. A). January 2, 2026: Mr. Losik's recorded statement to defendant, “stop with the fucking emails, or else” (Tab D, Ex. B; Tab E). January 3, 2026: confrontation by property manager William Landrum (Tab C). February 25, 2026: defendant petitions this Court for an Elder/Dependent Adult Abuse Restraining Order against the Assistant Property Manager, case CCH-26-589086; hearing March 19, 2026 (R01 p. 33, plaintiff's own recital). Each of these is protected activity under Civil Code section 1942.5 and Government Code section 12955, subdivision (f). The January 2, 2026 statement and the January 3, 2026 confrontation, both directed at defendant's complaints and accommodation requests, fall within the 180 days preceding the April 8, 2026 notice; under section 1942.5, subdivision (a), a notice issued within that window after protected complaints is presumptively retaliatory and the burden shifts to plaintiff to prove a non-retaliatory purpose."
+  },
+  {
+   "type": "chk",
+   "shows": "Protected activity Nov. 2025–Mar. 2026 recited in plaintiff's own notice (R01 p. 33).",
+   "omits": "Any warning, notice to cure, or incident report preceding the notice.",
+   "asked": "Treat the notice as issuing within the 180-day window of Civ. Code § 1942.5(a)."
+  },
+  {
+   "type": "h3",
+   "text": "B. The April 8, 2026 Notice to Quit (R01 pp. 33–35; Complaint Exhibit 2)"
+  },
+  {
+   "type": "n",
+   "text": "The notice is a three-page nuisance notice under Code of Civil Procedure section 1161, subdivision (4), demanding possession by April 16, 2026. Its first enumerated ground is defendant's February 25, 2026 restraining-order petition and his March 19, 2026 court appearance (Figure 1). Its second is that defendant sent management “over one thousand (1,000) lengthy emails” (Figure 1). A notice to quit that names the tenant's court petition and the tenant's accommodated communication channel as the nuisance is a retaliatory notice on its own face (Civ. Code, § 1942.5, subds. (a), (d))."
+  },
+  {
+   "type": "fig",
+   "key": "F1"
+  },
+  {
+   "type": "n",
+   "text": "The notice is drafted in the third person and attributes the remaining conduct to unnamed “staff” on January 23 and February 20, 2026, after the accommodation consensus and after Mr. Losik's January 2 threat. No contemporaneous incident report, warning, or notice to cure preceded it (Tab I, Notice to Counsel § III). The complaining manager, Mr. Landrum, is the person who caused the notice to issue (Tab I § III; Tab C)."
+  },
+  {
+   "type": "n",
+   "text": "Page 3 states that the tenancy “is exempt from the provisions of the San Francisco Residential Rent Stabilization and Arbitration Ordinance” (Figure 2). Three weeks later plaintiff's complaint pleads in Attachment 18 that the tenancy is subject to, and that plaintiff has complied with, the just-cause requirements applicable to a federally subsidized tenancy (R01 pp. 7–8). Plaintiff cannot be exempt for purposes of the notice and compliant for purposes of the complaint."
+  },
+  {
+   "type": "n",
+   "text": "The notice is signed by Jerome Bradford “For Swords to Plowshares” and is copied to the San Francisco Housing Authority and SF DHSH (Figure 2) — publication of accusatory allegations to the subsidy administrator before any adjudication, in a building where the eviction was also publicly posted (R09, P&A, “Public Posting”)."
+  },
+  {
+   "type": "fig",
+   "key": "F2"
+  },
+  {
+   "type": "chk",
+   "shows": "Notice names the RO petition and accommodated emails as grounds; declares the tenancy exempt; copied to the Housing Authority (Figs. 1–2).",
+   "omits": "Particularized facts of nuisance; a named declarant with personal knowledge; the Exhibit 3 proof of service.",
+   "asked": "Find the notice retaliatory on its face and insufficient under § 1161(4)."
+  },
+  {
+   "type": "h3",
+   "text": "C. The Complaint (R01; filed May 5, 2026; verified May 4, 2026)"
+  },
+  {
+   "type": "n",
+   "text": "The complaint pleads that the notice was served on April 8, 2026 by posting and mailing “because no person of suitable age or discretion can be found there” (Figure 3, item 10a(3)–(4)). Defendant, who was in residence and in continuous written contact with management, was never handed the notice. The complaint says the proof of service of the notice is attached as Exhibit 3 (item 10d). On defendant's page-by-page review of the 58-page filed complaint, no page labeled Exhibit 3 appears; pages 36–54 are the Mayor's Office eviction-prevention insert and HUD VAWA forms. The person who executed the notice, Mr. Bradford, is the same person who verified the complaint on personal knowledge (Figure 4), and is the person whose presence at the premises at the time of the claimed service is disputed (Tab I § II). Production of the original proof of service, access logs and camera footage for that hour has been demanded and the demand is unanswered."
+  },
+  {
+   "type": "fig",
+   "key": "F3"
+  },
+  {
+   "type": "fig",
+   "key": "F4"
+  },
+  {
+   "type": "n",
+   "text": "The complaint seeks possession and holdover damages at $37.53 per day from April 17, 2026 (Figure 3, item 14; R01 p. 6, item 20g) and is designated a limited civil case (Figure 5). It does not plead nonpayment; the only basis is the nuisance notice."
+  },
+  {
+   "type": "fig",
+   "key": "F5"
+  },
+  {
+   "type": "chk",
+   "shows": "Bradford verified the complaint on personal knowledge the day before filing (Fig. 4); service by posting pleaded (Fig. 3).",
+   "omits": "Exhibit 3; any explanation why personal delivery was impossible to a tenant in residence.",
+   "asked": "Require production of the original proof of service and access/camera records (Tab I § II)."
+  },
+  {
+   "type": "h3",
+   "text": "D. Defendant's Answer (dated May 17, 2026) and the Court's access channel"
+  },
+  {
+   "type": "n",
+   "text": "Defendant prepared and dated an Answer on May 17, 2026 asserting a general denial and thirteen affirmative defenses, including retaliation, failure to accommodate, habitability, waiver by acceptance of rent, unclean hands and witness tampering (R09 pp. 22–26 of the packet, Bates at Tab H). At the same time defendant was corresponding with the Court's ADA/access channel regarding his MC-410 request. On June 10, 2026 the Court's clerk advised that plaintiff's default paperwork could not be processed because it was incomplete, and defendant was told no further action was required while the accommodation request was reviewed (R08 ¶¶ 6, 10(c)). The Answer was not entered on the docket; the Court later recognized that the ADA/MC-410 record had been treated as confidential while the unlawful detainer docket proceeded to default (R09, P&A, p. 11)."
+  },
+  {
+   "type": "chk",
+   "shows": "Answer dated May 17, 2026 (R09); clerk's June 10 letter; MC-410 pending (R08 ¶¶ 6, 10).",
+   "omits": "A docket entry for the Answer; any notice to defendant that default would be sought.",
+   "asked": "Treat the Answer as tendered before default for purposes of § 585 and § 473(d)."
+  },
+  {
+   "type": "h3",
+   "text": "E. Service of the summons by posting (R02, R05)"
+  },
+  {
+   "type": "n",
+   "text": "On May 19, 2026 — two days after the Answer was dated — plaintiff applied ex parte for an order permitting service of the summons by posting under Code of Civil Procedure section 415.45 (Figure 6), supported by declarations of counsel Charity Martinez and process server Joseph Falanga (R02 pp. 2–5). Section 415.45 is available only on a showing of reasonable diligence in attempting personal or substituted service. Plaintiff's counsel was at that moment litigating against defendant in the related restraining-order matter in this courthouse and had his unit number, email and telephone number (R01 p. 1; Tab I)."
+  },
+  {
+   "type": "fig",
+   "key": "F6"
+  },
+  {
+   "type": "n",
+   "text": "The only Proof of Service of Summons in the record names the party served as “All Unnamed Occupants” and lists the Prejudgment Claim of Right of Possession among the documents served (Figure 7). It recites posting on Thursday, June 4, 2026 at 11:03 a.m. and certified mailing the same day, is signed June 12, 2026, and was not filed until June 30, 2026 (Figure 8). No proof of service of the summons on the named defendant, Donald Gillson, appears in the record. A default cannot be entered against a defendant who has not been served (Code Civ. Proc., §§ 415.45, subd. (c), 585, 1167)."
+  },
+  {
+   "type": "fig",
+   "key": "F7"
+  },
+  {
+   "type": "fig",
+   "key": "F8"
+  },
+  {
+   "type": "chk",
+   "shows": "Ex parte for posting two days after the Answer date (Fig. 6); POS-010 on “All Unnamed Occupants” only (Figs. 7–8).",
+   "omits": "Any proof of service of summons on Donald Gillson; any diligence addressed to his known email, phone or unit.",
+   "asked": "Find the summons unserved on the named defendant; the default void."
+  },
+  {
+   "type": "h3",
+   "text": "F. Default and judgment entered the same day the proof of service was filed (R03, R04)"
+  },
+  {
+   "type": "n",
+   "text": "On June 30, 2026 plaintiff filed the June 12 proof of service, a Request for Entry of Default, and a form of judgment; the clerk entered default “as requested” and entered a clerk's judgment for possession, $0.00, that day (Figure 9, Figure 10). This followed the clerk's June 10 letter rejecting the default request as incomplete (R08 ¶ 6). The defect that made it incomplete on June 10 — the absence of a filed proof of service — was addressed by filing a proof of service on the unnamed occupants, not on the defendant."
+  },
+  {
+   "type": "fig",
+   "key": "F9"
+  },
+  {
+   "type": "fig",
+   "key": "F10"
+  },
+  {
+   "type": "chk",
+   "shows": "Default, judgment and POS all entered June 30, 2026 (Figs. 8–10) after a June 10 rejection.",
+   "omits": "Cure of the June 10 defect as to the named defendant.",
+   "asked": "Set aside under § 473(d); alternatively § 473(b)."
+  },
+  {
+   "type": "h3",
+   "text": "G. Notice of entry, writ, and defendant's emergency application (R06–R08)"
+  },
+  {
+   "type": "n",
+   "text": "Plaintiff mailed Notice of Entry of Judgment on July 1, 2026 (Figure 11; R06 p. 3) and the same day filed for a writ of possession (R07). Defendant, receiving the notice by mail, filed an emergency ex parte application on July 7, 2026 to stay execution, recall the writ, set aside the default, and route the MC-410 record for judicial review (Figure 12; R08 pp. 1–3; R09)."
+  },
+  {
+   "type": "fig",
+   "key": "F11"
+  },
+  {
+   "type": "fig",
+   "key": "F12"
+  },
+  {
+   "type": "chk",
+   "shows": "Notice of entry mailed July 1 (Fig. 11); writ sought the same day (R07); emergency application July 7 (Fig. 12).",
+   "omits": "Any pause by plaintiff after receipt of the Answer or the rule 1.100 correspondence.",
+   "asked": "Weigh the race to the writ in the equities of forfeiture."
+  },
+  {
+   "type": "h3",
+   "text": "H. The July 8, 2026 order (R10)"
+  },
+  {
+   "type": "n",
+   "text": "The Court (Hon. Charles F. Haines) heard the application on July 7 and filed its order on July 8, 2026, served on both sides by the clerk (Figure 13; R10 p. 3, Clerk's Certificate of Mailing). The order treats defendant's July 7 papers as a Motion to Vacate Default and Default Judgment, sets the hearing for July 22, 2026, fixes an opposition and reply schedule, and directs that the writ issued July 1, 2026 not be executed before July 22 (Figure 14). The default was thereafter set aside and the matter returned to the merits track; by order of August 27, 2026 the Court preserved defendant's affirmative defenses for trial (Tab K)."
+  },
+  {
+   "type": "fig",
+   "key": "F13"
+  },
+  {
+   "type": "fig",
+   "key": "F14"
+  },
+  {
+   "type": "n",
+   "text": "Defendant's index of irregularities (Tab B, item 20) identifies a July 2026 paper from plaintiff's firm bearing the signature block “Attorneys for Defendant”; the copy in defendant's possession is being conformed to the Court's file and will be lodged, and the item is not relied on in this statement until it is."
+  },
+  {
+   "type": "chk",
+   "shows": "Order of July 7/8: hearing set, writ stayed to July 22 (Figs. 13–14); defenses preserved Aug. 27 (Tab K).",
+   "omits": "Nothing — this is the Court's own record.",
+   "asked": "Hold plaintiff to the orders already entered."
+  },
+  {
+   "type": "h3",
+   "text": "I. October 2026: accommodation orders, medical status, and notice to counsel"
+  },
+  {
+   "type": "n",
+   "text": "The Court's rule 1.100 orders of July through October 2026 authorize defendant's remote appearance and written communication (Tab K). On October 30, 2026 defendant was treated in the John Muir Health Concord Emergency Department after a fall (CT head and cervical spine; acute cervical strain) and placed off work through November 3, 2026 with directed follow-up at David Grant USAF Medical Center on or about November 1, 2026; the record is lodged confidentially at Tab J under rule 1.100(c)(4). On October 31, 2026 defendant served plaintiff's counsel with a written notice identifying the service defects, the hearsay character of the “staff” allegations, the retaliation sequence, and a preservation demand for the original notice, proof of service, access logs and camera footage (Tab I)."
+  },
+  {
+   "type": "chk",
+   "shows": "Rule 1.100 orders (Tab K); Oct. 30 ED record (Tab J); Oct. 31 notice and preservation demand (Tab I).",
+   "omits": "Any response from counsel to the preservation demand.",
+   "asked": "Continue accommodations; adverse inference if the demanded records are not produced."
+  },
+  {
+   "type": "h3",
+   "text": "J. Addendum: threats of criminal referral, communication blocks, the service animal, and dependent-adult protections"
+  },
+  {
+   "type": "n",
+   "text": "Plaintiff's agents and counsel have threatened referral to the District Attorney over defendant's documentation of conditions and conduct in the building, characterizing it as unlawful recording (Tab I; Tab C, offer of proof). Every recording in this case was made in common areas or at defendant's own door, where no party had a reasonable expectation that the communication was confidential (Pen. Code, § 632, subd. (c)), and each is logged contemporaneously (Tab E). A threat of criminal process to deter a tenant from documenting habitability, retaliation and accommodation failures is itself retaliatory conduct (Civ. Code, § 1942.5, subd. (a)(5)) and bears on plaintiff's clean hands."
+  },
+  {
+   "type": "n",
+   "text": "Management blocked defendant's email channel — the accommodated channel — and declined delivery of his papers (Tab D, Ex. C; Tab I § I). Counsel has since described defendant's filings as “emails” or a “data dump.” The record distinguishes the two: informal correspondence went to management by email under the accommodation; every court paper was served through Rapid Legal, a registered third-party process server, with delivery manifests retained and cross-referenced to the Bates range of each document (Tab D, Ex. C), as Code of Civil Procedure section 1011 et seq. and rule 2.251 of the California Rules of Court permit. Blocking the agreed written channel and then relying on the volume of its use as grounds for eviction is a failure to accommodate (Gov. Code, § 12927, subd. (c)(1); 24 C.F.R. § 100.204) and a procedural default by the party that blocked it."
+  },
+  {
+   "type": "n",
+   "text": "Defendant's record-keeping is maintained through an external cognitive prosthetic: a Supabase-backed system that stores every communication, accommodation agreement and filing with a server-side timestamp, used to compensate for TBI- and PTSD-related memory impairment (Tab D, Ex. D). It is auxiliary aid and assistive technology within the meaning of the ADA (42 U.S.C. § 12103(1); 28 C.F.R. §§ 35.104, 36.303) and is part of the accommodation the Court has recognized under rule 1.100 (Tab K). Plaintiff has characterized its output as “AI hallucination.” The Court is asked to rely on the source documents and timestamps, not on either side's characterization; each exhibit at Tab D and Tab L is paired with its source file and capture date so that any entry can be checked."
+  },
+  {
+   "type": "n",
+   "text": "Defendant's psychiatric service dog, Jaxx, is a medically prescribed assistance animal (Tab K; Tab J). Displacement of a tenant with TBI and PTSD from a fixed, accessible unit to a vessel moored in Vallejo, Solano County, where defendant has been forced to shelter during the pendency of this action, disrupts the animal's working environment and the tenant's care routine, and is part of the damages record (Tab D, Ex. E: mileage, fuel and transit logs between Vallejo and San Francisco since July 2026)."
+  },
+  {
+   "type": "n",
+   "text": "Defendant qualifies as a dependent adult within the meaning of Welfare and Institutions Code section 15610.23 and invokes the protections of the Elder Abuse and Dependent Adult Civil Protection Act against financial and psychological abuse by a housing provider that is also his clinical services provider (Welf. & Inst. Code, §§ 15610.07, 15610.30, 15610.53). The same facts underlie the pending restraining-order matter CCH-26-589086 (R01 p. 33) and the BBS complaints at Tab M. These matters are placed in the Department 606 record so that the trial court has the complete context in which the April 8, 2026 notice issued."
+  },
+  {
+   "type": "chk",
+   "shows": "Threats of criminal referral; blocked communication channel; attacks on assistive technology; displacement to Vallejo (Tabs C, D, E, I).",
+   "omits": "Any lawful basis for the threatened referral; any individualized assessment of the service animal.",
+   "asked": "Treat the conduct as retaliation and as bearing on clean hands."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 4 — IMPLEMENT"
+  },
+  {
+   "type": "h2",
+   "text": "IV. The Record Against Itself"
+  },
+  {
+   "type": "p",
+   "text": "The following representations in plaintiff's own papers are contradicted by other papers plaintiff filed, or by the absence of what plaintiff said it filed."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Plaintiff's representation",
+     "Where",
+     "Contradicted by",
+     "Where"
+    ],
+    [
+     "Tenancy is “exempt” from the SF Rent Ordinance",
+     "Notice to Quit p. 3 (R01 p. 35; Fig. 2)",
+     "Complaint pleads just-cause compliance for a subsidized tenancy",
+     "Attachment 18 (R01 pp. 7–8)"
+    ],
+    [
+     "Nuisance consists of “staff harassment” by unnamed staff",
+     "Notice to Quit pp. 1–2 (R01 pp. 33–34)",
+     "Grounds actually listed: the RO petition and the volume of accommodated emails",
+     "R01 p. 33 (Fig. 1)"
+    ],
+    [
+     "Notice posted and mailed 4/8/2026 because no suitable person could be found",
+     "UD-100 item 10 (R01 p. 5; Fig. 3)",
+     "Defendant in residence and in daily written contact; executing employee's presence disputed; no Exhibit 3 in the filed complaint",
+     "R01 pp. 36–58; Tab I § II"
+    ],
+    [
+     "Proof of service of notice “attached and labeled Exhibit 3”",
+     "UD-100 item 10d (R01 p. 5)",
+     "No page labeled Exhibit 3 in R01",
+     "R01, all 58 pages (Tab H)"
+    ],
+    [
+     "Reasonable diligence justified service by posting",
+     "Ex parte application 5/19/2026 (R02; Fig. 6)",
+     "Counsel simultaneously litigating against defendant in CCH-26-589086 with his address, email and phone",
+     "R01 p. 1; Tab I; Tab K"
+    ],
+    [
+     "Summons served on defendant",
+     "Request for Entry of Default (R03; Fig. 9)",
+     "Only POS-010 names “All Unnamed Occupants”",
+     "R05 p. 1 (Fig. 7)"
+    ],
+    [
+     "Default properly entered 6/30/2026",
+     "R03, R04 (Figs. 9–10)",
+     "Clerk rejected default 6/10/2026 as incomplete; Answer dated 5/17/2026 tendered; MC-410 pending",
+     "R08 ¶¶ 6, 10; R09"
+    ],
+    [
+     "Writ may be executed on the June 30 judgment",
+     "Writ request 7/1/2026 (R07)",
+     "Court: writ “shall not be executed prior to July 22, 2026”; default thereafter set aside",
+     "R10 p. 2 (Fig. 14); Tab K"
+    ],
+    [
+     "Eviction is for “the way that staff was treated”",
+     "Counsel's statement (Tab I § III)",
+     "No incident report, warning or notice to cure; sole dispute was with Mr. Landrum, who caused the notice to issue",
+     "Tab I § III; Tab C"
+    ],
+    [
+     "Defendant's filings are “emails” or a “data dump”",
+     "Counsel's characterization (Tab I)",
+     "Court papers served via Rapid Legal (CCP § 1011; CRC 2.251) with manifests cross-referenced to Bates ranges; email limited to the rule 1.100 channel",
+     "Tab D Ex. C; Tab K"
+    ]
+   ]
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 5 — EVALUATE"
+  },
+  {
+   "type": "h2",
+   "text": "V. Issues for Trial and Relief Requested"
+  },
+  {
+   "type": "n",
+   "text": "(1) Whether the April 8, 2026 notice states a nuisance with the particularity section 1161(4) requires, or instead names protected activity as its grounds. (2) Whether the notice was served as section 1162 requires, given the disputed presence of the executing employee and the missing Exhibit 3. (3) Whether the summons was ever served on the named defendant. (4) Whether the action is barred as retaliatory under Civil Code section 1942.5 and Government Code section 12955(f), the notice having issued within 180 days of defendant's accommodation request and restraining-order petition. (5) Whether plaintiff, having accepted rent and continued the subsidy after the alleged conduct, waived the forfeiture. (6) Whether plaintiff comes to equity with clean hands."
+  },
+  {
+   "type": "n",
+   "text": "Defendant asks that judgment be entered for defendant on the complaint; alternatively that the notice be found defective and the action dismissed without prejudice to a new notice that complies with sections 1161 and 1162 and Civil Code section 1946.2; that the Court find the action retaliatory within the meaning of Civil Code section 1942.5 and award the statutory remedies; that plaintiff's unanswered preservation demand (Tab I § II) support an adverse inference as to the original notice, proof of service, access logs and camera footage; and that the accommodations ordered under rule 1.100 remain in force for all further proceedings."
+  }
+ ],
+ "notice": [
+  {
+   "type": "phase",
+   "text": "STRUCTURE: ANALYZE → DESIGN → DEVELOP → IMPLEMENT → EVALUATE. Each part states what is noticed, the authority that permits it, and what is asked."
+  },
+  {
+   "type": "h2",
+   "text": "Reader's Map"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Part",
+     "What it does",
+     "Authority"
+    ],
+    [
+     "I",
+     "Gives notice that Government Claims have been presented against the City and County and against the Superior Court, and asks the Court to take judicial notice of them.",
+     "Gov. Code §§ 905, 910, 911.2, 912.7; Evid. Code § 452(c), (d), (h)"
+    ],
+    [
+     "II",
+     "Verified statement of disqualification of the assigned judicial officer for cause; peremptory challenge in the alternative; request for reassignment outside Department 606.",
+     "Code Civ. Proc. §§ 170.1(a)(6)(A)(iii), 170.3(c), 170.6; Cal. Code Jud. Ethics, canon 3E"
+    ],
+    [
+     "III",
+     "Notice of federal rights engaged by this case and reservation of removal and federal relief.",
+     "42 U.S.C. §§ 12131–12134, 3604, 3617, 1983; 29 U.S.C. § 794; 28 U.S.C. §§ 1441, 1443, 1446; 16 U.S.C. § 460bb note"
+    ],
+    [
+     "IV",
+     "Request that enforcement stand down pending resolution of Parts I–III and the pending rule 1.100 requests.",
+     "Code Civ. Proc. §§ 918, 1176; Cal. Rules of Court, rule 1.100(e)(2)"
+    ],
+    [
+     "V",
+     "Memorandum of points and authorities, state and federal, with the record cites.",
+     "—"
+    ],
+    [
+     "VI",
+     "Verification and reservation of rights.",
+     "Code Civ. Proc. §§ 170.3(c)(1), 2015.5"
+    ]
+   ]
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 1 — ANALYZE"
+  },
+  {
+   "type": "h2",
+   "text": "I. Notice of Government Claims and Request for Judicial Notice"
+  },
+  {
+   "type": "n",
+   "text": "Defendant gives notice that he has presented, or is presenting concurrently with this paper, claims under the Government Claims Act (Gov. Code, § 810 et seq.) as follows. (a) Against the City and County of San Francisco, presented to the Controller / Clerk of the Board of Supervisors under Government Code sections 905, 910 and 911.2, for injuries arising from the conduct of City agencies and officers in connection with the tenancy at 1030 Girard Road, Unit 301A, including the Sheriff's participation in enforcement of a default judgment entered without service on the named defendant (R07; Tab A, Figs. 7–10) and the City's administration of the federal housing subsidy and inspection functions implicated by the habitability record (Tab L). (b) Against the Superior Court of California, County of San Francisco, presented to the Judicial Council of California as the claims body for judicial-branch entities under Government Code section 912.7, for injuries arising from the Court's administrative handling of defendant's disability accommodation requests under rule 1.100 and its records-access obligations under Title II of the ADA, as distinct from any judicial decision. Claim numbers and dates of presentation will be lodged with the Court upon receipt of acknowledgment."
+  },
+  {
+   "type": "n",
+   "text": "Defendant requests that the Court take judicial notice under Evidence Code sections 452, subdivisions (c), (d) and (h), and 453, of: (1) the two Government Claims described above and the official acts of receiving them; (2) the records of this Court in CUD-26-682107 (R01–R10, Tab H) and in CCH-26-589086; (3) the rule 1.100 orders and responses of this Court dated July through October 2026 (Tab K); (4) the complaints pending before the Board of Behavioral Sciences, Nos. 2002026002097 and 2002026002098 (Tab M); (5) the San Francisco 311 record, Case 101003004371; and (6) the Presidio Trust Act, Pub. L. 104-333, title I, § 103, as amended (16 U.S.C. § 460bb note), establishing the federal status of the Presidio of San Francisco within which the premises lie. Copies of items (2)–(4) are in this binder; items (1), (5) and (6) are public records whose existence is not reasonably subject to dispute."
+  },
+  {
+   "type": "box",
+   "text": "What is noticed is the existence and content of these official acts and records, not the truth of every statement within them. Evidence Code section 452 permits exactly this; the Court is asked to do no more."
+  },
+  {
+   "type": "chk",
+   "shows": "Government claims presented to the City (§ 910) and to the Judicial Council for the Court (§ 912.7); public records listed (1)–(6).",
+   "omits": "Claim acknowledgment numbers (to be lodged on receipt).",
+   "asked": "Take judicial notice; note the claims on the register of actions."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 2 — DESIGN"
+  },
+  {
+   "type": "h2",
+   "text": "II. Verified Statement of Disqualification; Peremptory Challenge in the Alternative; Request for Reassignment"
+  },
+  {
+   "type": "h3",
+   "text": "A. Statement of disqualification for cause (Code Civ. Proc., §§ 170.1, 170.3, subd. (c))"
+  },
+  {
+   "type": "n",
+   "text": "Under Code of Civil Procedure section 170.3, subdivision (c)(1), defendant files this verified statement objecting to the hearing or trial of this matter before the judicial officer presently assigned to Department 606 and setting forth the facts constituting the grounds for disqualification. The statement is presented at the earliest practicable opportunity after discovery of the facts: the October 30, 2026 emergency-department record and the October 2026 refusals to act on pending rule 1.100 requests (Tabs J, K) post-date the prior orders in this case."
+  },
+  {
+   "type": "n",
+   "text": "Grounds. (1) A person aware of the facts might reasonably entertain a doubt that the judicial officer would be able to be impartial (§ 170.1, subd. (a)(6)(A)(iii)), where: (a) accommodation requests under rule 1.100 that were granted in Departments 501 and 505 in July–September 2026 (Tab K, Exs. 1–12) were thereafter narrowed or left unruled in Department 606 while trial was advanced (Tab K, Exs. 13–20); (b) the Court has in defendant's presence adopted plaintiff's characterization of his assistive-technology record as unreliable, without an evidentiary basis (Tab A § III.J); (c) the Court has set in-person trial call for November 2, 2026 notwithstanding a treating physician's order placing defendant off activity through November 3 (Tab J); and (d) defendant's May 17, 2026 Answer was treated as unfiled while a default was entered on a proof of service naming only “All Unnamed Occupants” (Tab A, Figs. 7–10; R09). (2) Each of these is a fact, stated on personal knowledge, that bears on the appearance of impartiality under canon 3E of the Code of Judicial Ethics; defendant does not allege, and need not allege, actual bias."
+  },
+  {
+   "type": "n",
+   "text": "Procedure requested. Section 170.3, subdivision (c)(3), requires the judge, within ten days, to file a consent to disqualification or a verified answer; failure to do so is deemed consent (§ 170.3, subd. (c)(4)). If the statement is contested, the question of disqualification is to be heard and determined by a judge agreed upon by the parties or, failing agreement, by a judge selected by the Chairperson of the Judicial Council (§ 170.3, subd. (c)(5)). Defendant asks that no further orders issue in this case other than those necessary to preserve the status quo until the statement is determined (§ 170.4, subds. (a), (c), (d))."
+  },
+  {
+   "type": "h3",
+   "text": "B. Peremptory challenge in the alternative (Code Civ. Proc., § 170.6)"
+  },
+  {
+   "type": "n",
+   "text": "If and to the extent the matter has not yet been assigned for all purposes to a judge who has ruled on a contested fact issue relating to the merits, defendant exercises his peremptory challenge under section 170.6 against the judicial officer presently assigned, supported by the declaration below (§ 170.6, subd. (a)(2), (6)). Defendant acknowledges that a party has one such challenge and that it must be timely; it is made here in the alternative so that the Court may rule on the for-cause statement first."
+  },
+  {
+   "type": "h3",
+   "text": "C. Request for reassignment outside Department 606"
+  },
+  {
+   "type": "n",
+   "text": "Defendant asks the Presiding Judge, under California Rules of Court, rule 10.603(c)(1)(C) and (D), to reassign this matter to a department other than 606 and, given that accommodation requests in this case have now been handled by three departments with inconsistent results (Tab K), to assign a single judicial officer for all purposes with the ADA Coordinator's recommendations before that officer. Defendant does not ask that every judge of this Court be disqualified; that is not a remedy section 170.1 provides. He asks for one impartial officer, outside the department in which the facts above arose, and for the Judicial Council to select that officer if the parties cannot agree (§ 170.3, subd. (c)(5))."
+  },
+  {
+   "type": "chk",
+   "shows": "Verified statement under § 170.3(c) with four enumerated facts; § 170.6 challenge in the alternative; reassignment request to the Presiding Judge.",
+   "omits": "Nothing further is required of defendant; the ten-day clock under § 170.3(c)(3) runs from service.",
+   "asked": "Strike or answer within ten days (§ 170.3(c)(3)); stay merits orders meanwhile (§ 170.4)."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 3 — DEVELOP"
+  },
+  {
+   "type": "h2",
+   "text": "III. Notice of Federal Rights Engaged and Reservation of Removal"
+  },
+  {
+   "type": "n",
+   "text": "Americans with Disabilities Act, Title II. The Superior Court is a public entity (42 U.S.C. § 12131(1)). It may not exclude a qualified individual with a disability from participation in, or deny him the benefits of, its services, programs or activities (§ 12132), and it must make reasonable modifications in policies, practices and procedures and furnish auxiliary aids and services (28 C.F.R. §§ 35.130(b)(7), 35.160). Access to the courts is a fundamental right to which Title II validly applies (Tennessee v. Lane (2004) 541 U.S. 509, 531–534). Rule 1.100 is California's implementation of that obligation (rule 1.100(a)); its orders are enforceable as ADA compliance, not as discretionary courtesies. Section 504 of the Rehabilitation Act (29 U.S.C. § 794) imposes the same obligations on recipients of federal financial assistance, which both the Court and plaintiff are."
+  },
+  {
+   "type": "n",
+   "text": "Fair Housing Act and FEHA. Plaintiff's notice names the accommodated written channel and the elder-abuse petition as grounds (Tab A, Fig. 1). That is interference with the exercise of fair-housing rights (42 U.S.C. § 3617; 24 C.F.R. § 100.400) and refusal of a reasonable accommodation (§ 3604(f)(3)(B); Gov. Code, § 12927, subd. (c)(1)). HUD-VASH and SSVF participation subject plaintiff to 24 C.F.R. part 982 and the VA's program requirements; the Department of Veterans Affairs Office of Inspector General and HUD's Office of Fair Housing and Equal Opportunity have been noticed."
+  },
+  {
+   "type": "n",
+   "text": "Federal status of the premises. The Presidio of San Francisco is federal land administered by the Presidio Trust under the Presidio Trust Act (16 U.S.C. § 460bb note; Pub. L. 104-333, § 103). Residential leasing within the Presidio operates under Trust ground leases and federal program agreements. Defendant does not contend that this Court lacks subject-matter jurisdiction over an unlawful detainer by reason of federal ownership alone; he contends that the federal program conditions attached to the tenancy, and the Trust's and VA's oversight roles, are part of the record of plaintiff's obligations and are reserved for the federal forum."
+  },
+  {
+   "type": "n",
+   "text": "Civil-rights remedies. 42 U.S.C. § 1983 provides a remedy against persons acting under color of state law who deprive a citizen of federal rights, and against a municipality whose policy or custom causes the deprivation (Monell v. Department of Social Services (1978) 436 U.S. 658, 690–691). Defendant acknowledges that judicial officers are absolutely immune from damages for judicial acts (Stump v. Sparkman (1978) 435 U.S. 349, 356–357; Mireles v. Waco (1991) 502 U.S. 9, 11–12) and that the Government Claim against the Court in Part I is accordingly directed at administrative, not adjudicative, conduct — the processing of accommodation requests and records access. Title II itself contains no such immunity for the entity (United States v. Georgia (2006) 546 U.S. 151, 159)."
+  },
+  {
+   "type": "n",
+   "text": "Interstate business interests. Defendant is the principal of That's Edutainment LLC and 32D LLC, a Nevada limited liability company, and operates the 18fu.ai platform from a node in Saint Paul, Minnesota. Unit 301A is his California place of business as well as his residence. The displacement described in Part IV has interrupted those operations across state lines; the resulting losses are part of the Government Claims in Part I and of the damages reserved for the federal forum. Defendant states these facts for the record and does not contend that they alone confer federal jurisdiction. The assistive-technology record system described in Tab A § III.J is deployed as a web application (v0-shadcn-6rk4pboha-dgillson9175-1000s-projects.vercel.app) and is the repository of every communication, filing and timestamp in this case. Defendant states, on information and belief, that plaintiff's agents' demands that he “stop with the emails” and their characterization of that system as unreliable are directed at the record it holds; he asks that the system and its contents be treated as protected work product and assistive technology, and that any demand for its shutdown or surrender be made only by noticed motion."
+  },
+  {
+   "type": "n",
+   "text": "Service of papers distinguished from correspondence. Plaintiff's counsel has characterized defendant's lodged binders as “voluminous emails.” The formal binders and bench copies were served through Rapid Legal, a registered process server, under Code of Civil Procedure sections 1010–1013 and rule 2.251, and the proofs of service are in Tab H and Tab I. Email was used only for the written-communication accommodation that plaintiff's own agent agreed to on December 23, 2025 (Tab A, Integrated Statement, Fig. 1)."
+  },
+  {
+   "type": "n",
+   "text": "Reservation of removal. Defendant reserves the right to remove this action to the United States District Court for the Northern District of California under 28 U.S.C. sections 1441, 1443(1) and 1446, and to seek relief there under Title II, section 504, the Fair Housing Act and section 1983. Defendant is aware that removal of an unlawful detainer is tested against the well-pleaded complaint rule and that section 1443(1) is construed narrowly (Georgia v. Rachel (1966) 384 U.S. 780, 792; Johnson v. Mississippi (1975) 421 U.S. 213, 219); the reservation is made with that law in view, and the notice of removal, if filed, will be filed in good faith on the grounds stated there and not as a device to delay. Until a notice of removal is filed and a copy lodged with this Court, this Court retains jurisdiction (28 U.S.C. § 1446(d))."
+  },
+  {
+   "type": "chk",
+   "shows": "Title II / § 504 duties of the Court; FHA §§ 3604(f)(3)(B), 3617 on the notice's face; federal program status of the premises; § 1983 and Monell; removal reserved under §§ 1441, 1443, 1446.",
+   "omits": "A filed notice of removal — not yet filed; this Court retains jurisdiction until § 1446(d) is satisfied.",
+   "asked": "Treat rule 1.100 compliance as a federal obligation, not a courtesy."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 4 — IMPLEMENT"
+  },
+  {
+   "type": "h2",
+   "text": "IV. Request That Enforcement Stand Down"
+  },
+  {
+   "type": "n",
+   "text": "Defendant asks that no writ of possession issue or be executed, and that the November 2, 2026 trial call be continued or conducted remotely, until: (a) the statement of disqualification is determined (§ 170.4); (b) the pending rule 1.100 requests (Tab J; Tab K, Exs. 13–20) are ruled on in writing with the findings rule 1.100(e)(2) requires if any part is denied; and (c) the treating physician's activity restrictions have lapsed (Tab J). A trial court must consider an ADA-based continuance request under rule 1.100, not under the ordinary good-cause standard, and must state its reasons for any denial (Vesco v. Superior Court (2013) 221 Cal.App.4th 275, 282–284; In re Marriage of James & Christine C. (2008) 158 Cal.App.4th 1261, 1273–1274). Code of Civil Procedure section 1176 authorizes a stay of enforcement in an unlawful detainer pending appeal on conditions; section 918 authorizes a stay of up to ten days beyond the time to appeal. Defendant will post the use-and-occupancy payments the Court sets."
+  },
+  {
+   "type": "n",
+   "text": "Constructive displacement. Defendant's enforced absence from the unit — sheltering aboard a vessel in Vallejo, Solano County, under a posted eviction, with the travel, cost and medical risk that entails for a person with TBI and PTSD (Tab J; Tab D, Ex. E) — is the practical result of a default entered without service (Tab A, Figs. 7–10) and of the Court's delay in acting on accommodation requests. Defendant records this so that the damages period is fixed in the record from the date of the first unserved default, June 30, 2026, and so that the related Solano County civil-harassment matter has the complete San Francisco record before it."
+  },
+  {
+   "type": "chk",
+   "shows": "Stay authority (§§ 170.4, 918, 1176; rule 1.100(e)(2); Vesco); physician's orders (Tab J); displacement record.",
+   "omits": "Written findings on the pending rule 1.100 requests.",
+   "asked": "Stay enforcement; continue or conduct trial call remotely; rule in writing."
+  },
+  {
+   "type": "phase",
+   "text": "PHASE 5 — EVALUATE"
+  },
+  {
+   "type": "h2",
+   "text": "V. Memorandum of Points and Authorities"
+  },
+  {
+   "type": "h3",
+   "text": "A. California"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Authority",
+     "Proposition",
+     "Record"
+    ],
+    [
+     "Gov. Code §§ 905, 910, 911.2, 912.7",
+     "Claims against local public entities are presented to the entity; claims against judicial-branch entities to the Judicial Council; six-month presentation period for personal injury.",
+     "Part I"
+    ],
+    [
+     "Evid. Code §§ 452(c), (d), (h), 453",
+     "Judicial notice of official acts, court records, and facts not reasonably subject to dispute; mandatory on request with notice and sufficient information.",
+     "Part I"
+    ],
+    [
+     "Code Civ. Proc. §§ 170.1(a)(6)(A)(iii), 170.3(c), 170.4",
+     "Disqualification where a reasonable person might doubt impartiality; verified statement procedure; limits on the challenged judge's powers pending determination.",
+     "Part II.A"
+    ],
+    [
+     "Code Civ. Proc. § 170.6",
+     "One peremptory challenge per side, timely made, no cause required.",
+     "Part II.B"
+    ],
+    [
+     "Cal. Rules of Court, rule 1.100",
+     "Accommodation requests may be made at any time; denials require written findings on specified grounds; medical information confidential.",
+     "Tabs J, K"
+    ],
+    [
+     "Vesco v. Superior Court (2013) 221 Cal.App.4th 275",
+     "ADA continuance request must be analyzed under rule 1.100; denial without the required findings is an abuse of discretion.",
+     "Part IV"
+    ],
+    [
+     "In re Marriage of James & Christine C. (2008) 158 Cal.App.4th 1261",
+     "Court must consider accommodation request on its merits and state reasons; disability-related inability to participate is not a basis to proceed without the party.",
+     "Part IV"
+    ],
+    [
+     "Biscaro v. Stern (2010) 181 Cal.App.4th 702",
+     "Failure to rule on a rule 1.100 request is itself error requiring reversal of the resulting judgment.",
+     "Tab K, Exs. 13–20"
+    ],
+    [
+     "Civ. Code § 1942.5(a), (d)",
+     "Retaliatory eviction presumption within 180 days of protected complaints; retaliation for exercise of rights barred.",
+     "Tab A § III.A–B"
+    ],
+    [
+     "Code Civ. Proc. §§ 415.45, 585, 473(d)",
+     "Posting requires a court order on a showing of diligence; default without service of summons on the named defendant is void.",
+     "Tab A, Figs. 3, 6–10"
+    ],
+    [
+     "Code Civ. Proc. §§ 918, 1176",
+     "Stays of enforcement.",
+     "Part IV"
+    ],
+    [
+     "Cal. Rules of Court, rule 10.603(c)(1)",
+     "Presiding Judge's authority to assign and reassign cases.",
+     "Part II.C"
+    ]
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "B. Federal"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Authority",
+     "Proposition",
+     "Record"
+    ],
+    [
+     "42 U.S.C. §§ 12131–12134; 28 C.F.R. §§ 35.130(b)(7), 35.160",
+     "Title II: state courts are public entities; duty to modify procedures and furnish auxiliary aids and services.",
+     "Part III"
+    ],
+    [
+     "Tennessee v. Lane (2004) 541 U.S. 509",
+     "Title II validly abrogates state immunity as applied to access to the courts.",
+     "Part III"
+    ],
+    [
+     "United States v. Georgia (2006) 546 U.S. 151",
+     "Title II creates a private cause of action for damages against the state for conduct that actually violates the Fourteenth Amendment.",
+     "Part III"
+    ],
+    [
+     "29 U.S.C. § 794",
+     "Section 504: no exclusion from programs receiving federal financial assistance by reason of disability.",
+     "Part III"
+    ],
+    [
+     "42 U.S.C. §§ 3604(f)(3)(B), 3617; 24 C.F.R. §§ 100.204, 100.400",
+     "Refusal of reasonable accommodation; interference, coercion, intimidation in the exercise of fair-housing rights.",
+     "Tab A, Figs. 1–2"
+    ],
+    [
+     "24 C.F.R. part 982; 38 U.S.C. § 2041 et seq.",
+     "Housing Choice Voucher / HUD-VASH program obligations of participating owners.",
+     "Part III"
+    ],
+    [
+     "16 U.S.C. § 460bb note (Presidio Trust Act, Pub. L. 104-333, § 103)",
+     "Federal status and administration of the Presidio of San Francisco.",
+     "Part I, item (6)"
+    ],
+    [
+     "42 U.S.C. § 1983; Monell v. Dept. of Social Services (1978) 436 U.S. 658",
+     "Remedy against persons and municipalities for deprivation of federal rights under color of law.",
+     "Part III"
+    ],
+    [
+     "Stump v. Sparkman (1978) 435 U.S. 349; Mireles v. Waco (1991) 502 U.S. 9",
+     "Judicial immunity from damages for judicial acts — acknowledged; claim against Court limited to administrative conduct.",
+     "Part III"
+    ],
+    [
+     "28 U.S.C. §§ 1441, 1443(1), 1446; Georgia v. Rachel (1966) 384 U.S. 780; Johnson v. Mississippi (1975) 421 U.S. 213",
+     "Removal; narrow construction of civil-rights removal; state court retains jurisdiction until notice filed and lodged.",
+     "Part III"
+    ],
+    [
+     "42 U.S.C. § 12103(1); 28 C.F.R. §§ 35.104, 36.303",
+     "Auxiliary aids and services include assistive technology; defendant's timestamped record system is such an aid.",
+     "Tab A § III.J"
+    ],
+    [
+     "Pen. Code § 632(c)",
+     "No confidential communication where parties may reasonably expect to be overheard; common-area recordings lawful.",
+     "Tab A § III.J; Tab E"
+    ]
+   ]
+  },
+  {
+   "type": "h3",
+   "text": "C. What this paper does not do"
+  },
+  {
+   "type": "n",
+   "text": "It does not ask this Court to find that it lacks jurisdiction; it does not ask that every judge of the Court be disqualified; it does not threaten counsel or the Court. It gives the notices the law requires before the remedies it reserves can be pursued, it invokes the disqualification procedure the Legislature provided, and it asks the Court to do what rule 1.100 and Title II already require. Defendant's good faith in each of these is verified below."
+  },
+  {
+   "type": "h2",
+   "text": "VI. Verification and Reservation of Rights"
+  },
+  {
+   "type": "n",
+   "text": "I, Donald Gillson, am the defendant in this action. I have read the foregoing Notice, Request for Judicial Notice, Statement of Disqualification and Memorandum. The facts stated in Parts I, II and IV are true of my own knowledge, except as to matters stated on information and belief, and as to those matters I believe them to be true. The statement of disqualification in Part II is made in good faith and not for the purpose of delay. I reserve all rights and remedies in this Court, in the Superior Court of Solano County, in the United States District Court, and before the federal and state agencies noticed, and waive none by proceeding here. I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct."
+  }
+ ],
+ "noticeTitle": [
+  "NOTICE OF GOVERNMENT CLAIMS PRESENTED AGAINST THE CITY AND COUNTY OF SAN FRANCISCO AND THE SUPERIOR COURT;",
+  "REQUEST FOR JUDICIAL NOTICE (EVID. CODE §§ 452, 453);",
+  "VERIFIED STATEMENT OF DISQUALIFICATION (CODE CIV. PROC. § 170.3, SUBD. (c)) AND PEREMPTORY CHALLENGE IN THE ALTERNATIVE (§ 170.6);",
+  "NOTICE OF FEDERAL RIGHTS, RESERVATION OF REMOVAL, AND REQUEST THAT ENFORCEMENT STAND DOWN;",
+  "MEMORANDUM OF POINTS AND AUTHORITIES (STATE AND FEDERAL)"
+ ],
+ "motion": [
+  {
+   "type": "box",
+   "text": "Filing notes (remove before filing). Rule 3.1112(f): a motion in limine filed before or during trial needs no separate notice of hearing, so this can be heard at the trial call without 16 court days' notice; serve opposing counsel as early as possible. For a ruling before the trial date, also file an ex parte application (rules 3.1200 et seq.; notify counsel by 10:00 a.m. the court day before, rule 3.1203). Form MC-410 goes to the ADA coordinator separately (rule 1.100(c)(4)); this motion only says that it was submitted. Rule 1.100 changes how the defendant participates; it does not change the disqualification standard, and the motion does not say it does. Items marked [VERIFY] are to be checked against the reporter before filing."
+  },
+  {
+   "type": "h2",
+   "text": "Emergency Motion in Limine No. 1"
+  },
+  {
+   "type": "p",
+   "text": "TO PLAINTIFF SWORDS TO PLOWSHARES AND ITS ATTORNEYS OF RECORD, JOHN P. ZANGHI, NICHOLAS P. WAGENER, CHARITY MARTINEZ, AND ZANGHI TORRES ADAMS LLP:"
+  },
+  {
+   "type": "p",
+   "text": "Defendant Donald Ernest Gillson, Ed.D., moves in limine, before the start of trial, in Department 606 (Hon. Stephen M. Murphy) of the above-entitled Court, 400 McAllister Street, San Francisco, California 94102. Under California Rules of Court, rule 3.1112(f), no separate notice of hearing is required. Defendant asks for an order:"
+  },
+  {
+   "type": "n",
+   "text": "Disqualifying John P. Zanghi and Zanghi Torres Adams LLP from representing Plaintiff Swords to Plowshares at trial and in this action;"
+  },
+  {
+   "type": "n",
+   "text": "In the alternative, barring Mr. Zanghi from acting as trial advocate while also being a witness (Rules Prof. Conduct, rule 3.7);"
+  },
+  {
+   "type": "n",
+   "text": "Excluding any evidence, testimony, or argument derived from confidential information Defendant gave Plaintiff as his accredited VA representative (Evid. Code, §§ 352, 402);"
+  },
+  {
+   "type": "n",
+   "text": "Prohibiting disqualified counsel from giving successor counsel any work product derived from that confidential information;"
+  },
+  {
+   "type": "n",
+   "text": "Continuing trial for a reasonable period, if needed, so Plaintiff can retain unconflicted counsel; and"
+  },
+  {
+   "type": "n",
+   "text": "Granting the procedural accommodations requested in Section V below."
+  },
+  {
+   "type": "p",
+   "text": "Emergency basis. Trial call is set for November 2, 2026. Defendant learned the facts supporting this motion on [__________]. If this motion is not decided before evidence is taken, Plaintiff's director-lawyer will act as both advocate and witness, and evidence derived from Defendant's confidential VA information may be put before the trier of fact. Once that happens, it cannot be undone."
+  },
+  {
+   "type": "p",
+   "text": "This motion is based on the attached Memorandum of Points and Authorities, the Declaration of Donald E. Gillson and its exhibits, the pleadings and records on file (including Tabs A through M of this binder), and any argument at the hearing."
+  },
+  {
+   "type": "h2",
+   "text": "Memorandum of Points and Authorities"
+  },
+  {
+   "type": "h3",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "p",
+   "text": "Plaintiff's lead counsel, John P. Zanghi, is not merely Plaintiff's lawyer in this case. He sits on Plaintiff's Board of Directors, and he signed verified papers in this case as Plaintiff's agent. He is therefore both advocate and witness, and he has a personal stake in the outcome. Meanwhile, Plaintiff is, or was, Defendant's own accredited VA representative. It is now evicting the disabled veteran it was entrusted to protect, through a director-lawyer who may have access to that veteran's confidential VA information."
+  },
+  {
+   "type": "p",
+   "text": "These problems go to who may try this case and what evidence may be offered. They must be resolved before trial begins, which is exactly what a motion in limine is for."
+  },
+  {
+   "type": "h3",
+   "text": "II. Statement of Facts"
+  },
+  {
+   "type": "n",
+   "text": "Defendant is a 90% service-connected disabled veteran and a dependent adult. He resides at 1030 Girard Road, Unit 301A, San Francisco, a property operated by Plaintiff. (Gillson Decl. ¶ 2.)"
+  },
+  {
+   "type": "n",
+   "text": "Plaintiff [is / was] Defendant's accredited representative before the VA under VA Form 21-22, dated [__________]. In that role, Plaintiff received Defendant's confidential claim, medical, and disability information. (Gillson Decl. ¶ 3, Ex. A.)"
+  },
+  {
+   "type": "n",
+   "text": "John P. Zanghi is a member of Plaintiff's Board of Directors. (Gillson Decl. ¶ 4, Ex. B.)"
+  },
+  {
+   "type": "n",
+   "text": "On [__________], Mr. Zanghi signed [the verification of the Complaint / discovery responses / other document] “as agent” for Plaintiff, stating that Plaintiff's officers were [absent from the county / unavailable]. (Gillson Decl. ¶ 5, Ex. C.)"
+  },
+  {
+   "type": "n",
+   "text": "On information and belief, Zanghi Torres Adams LLP has communicated with Cooley LLP about Defendant and his company, That's Edutainment LLC, and has shared information about them. (Gillson Decl. ¶ 6, Ex. D.)"
+  },
+  {
+   "type": "n",
+   "text": "Defendant has submitted requests for accommodation under rule 1.100 in this case since July 2026 (Tab H), and a further Form MC-410 concurrently with this motion (Tab B). (Gillson Decl. ¶ 8.)"
+  },
+  {
+   "type": "h3",
+   "text": "III. This Motion Is Properly Brought in Limine"
+  },
+  {
+   "type": "p",
+   "text": "A motion in limine is a pretrial request to resolve issues that would otherwise disrupt trial or expose the trier of fact to improper matter. (Amtower v. Photon Dynamics, Inc. (2008) 158 Cal.App.4th 1582, 1593 [VERIFY].) The court may hear it before or during trial without a separate notice of hearing. (Cal. Rules of Court, rule 3.1112(f).)"
+  },
+  {
+   "type": "p",
+   "text": "The Court also has inherent and statutory power to control the conduct of attorneys before it, including disqualifying counsel at any stage. (Code Civ. Proc., § 128(a)(5); People ex rel. Dept. of Corporations v. SpeeDee Oil Change Systems, Inc. (1999) 20 Cal.4th 1135, 1145.) Who may act as trial advocate, and whether evidence derived from confidential information may be used, are threshold questions that must be settled before the first witness is called."
+  },
+  {
+   "type": "h3",
+   "text": "IV. Argument"
+  },
+  {
+   "type": "p",
+   "text": "A. Legal standard. The paramount concern is “to preserve public trust in the scrupulous administration of justice and the integrity of the bar.” (SpeeDee Oil, supra, 20 Cal.4th at p. 1145.) A non-client may seek disqualification when the ethical breach is “manifest and glaring” and so infects the litigation that it affects the non-client's interest in a just determination of the claims. (Kennecott Utah Copper Corp. v. Union Pacific Railroad Co. (2009) 178 Cal.App.4th 1214, 1223–1224 [VERIFY].) Defendant also has standing as a client, or former client, of Plaintiff's VA representation."
+  },
+  {
+   "type": "p",
+   "text": "B. Mr. Zanghi is a likely witness and cannot also act as trial advocate (rule 3.7). Rule 3.7(a) prohibits a lawyer from acting as advocate in a trial in which the lawyer is likely to be a witness, unless an exception applies."
+  },
+  {
+   "type": "n",
+   "text": "Verification. Code of Civil Procedure section 446 allows an attorney to verify a corporation's pleading only when its officers are absent from the county, and the attorney must state the reason. By verifying, Mr. Zanghi made himself the source of the sworn facts, and the opposing party may examine an attorney-verifier about the basis for verified statements. (Melendrez v. Superior Court (2013) 215 Cal.App.4th 1343 [VERIFY].) Defendant intends to call Mr. Zanghi at trial."
+  },
+  {
+   "type": "n",
+   "text": "Board decision. As a director, Mr. Zanghi has personal knowledge of why Plaintiff decided to evict Defendant. That knowledge goes to Defendant's defenses of retaliation (Civ. Code, § 1942.5), discrimination, and failure to accommodate disability."
+  },
+  {
+   "type": "n",
+   "text": "No exception applies. His testimony concerns contested facts, not an uncontested matter or the value of legal services (rule 3.7(a)(1)–(2)). Client consent under rule 3.7(a)(3) does not cure the risk of confusion between testimony and argument, which harms the trial itself. (Rules Prof. Conduct, rule 3.7, com. [3]; Kennecott, supra, 178 Cal.App.4th at p. 1231 [VERIFY].)"
+  },
+  {
+   "type": "p",
+   "text": "C. Dual roles create a disqualifying conflict (rule 1.7). Rule 1.7(b) prohibits representation when there is a significant risk that the lawyer's own interests or responsibilities to others will materially limit it. Mr. Zanghi is (1) a fiduciary of Plaintiff as a director, (2) its verifying agent, and (3) a partner in the firm Plaintiff pays to prosecute this case. As a director whose firm is compensated by the nonprofit he governs, he has a personal financial interest in the litigation (see Corp. Code, § 5233)."
+  },
+  {
+   "type": "p",
+   "text": "D. Evidence derived from Defendant's confidential VA information should be excluded, and the firm disqualified. An attorney who has obtained confidential information material to a case may be disqualified, and that disqualification extends to the firm. (Flatt v. Superior Court (1994) 9 Cal.4th 275, 283; SpeeDee Oil, supra, 20 Cal.4th at p. 1146.) Accredited VA representatives must act faithfully toward the claimants they represent (38 C.F.R. § 14.632). Defendant's disability status, benefits, and income are central to this eviction and to his defenses, so the matters are substantially related. Any evidence Plaintiff obtained through its VA representation of Defendant should be excluded; its probative value is substantially outweighed by unfair prejudice and by the damage to the integrity of these proceedings. (Evid. Code, § 352.) Defendant asks for an Evidence Code section 402 hearing outside the presence of the trier of fact before any such evidence is offered."
+  },
+  {
+   "type": "p",
+   "text": "E. Disqualification is the proportionate remedy. This is a limited-jurisdiction unlawful detainer case, and many attorneys can handle it. Any delay results from counsel's own choice to act as director, verifier, and advocate at once. A short continuance is far less harmful than a trial in which the opposing advocate is a key witness who may hold Defendant's confidential VA information."
+  },
+  {
+   "type": "h3",
+   "text": "V. Request for Procedural Accommodation (Cal. Rules of Court, rule 1.100)"
+  },
+  {
+   "type": "p",
+   "text": "Defendant is a person with disabilities within the meaning of the Americans with Disabilities Act (42 U.S.C. § 12102) and Civil Code section 51 et seq. Title II requires public entities, including state courts, to provide reasonable modifications so persons with disabilities have meaningful access to court proceedings. (42 U.S.C. § 12132; Tennessee v. Lane (2004) 541 U.S. 509, 531–534.) Rule 1.100 implements that duty. Defendant's confidential Form MC-410 is submitted separately; its contents are not repeated here (rule 1.100(c)(4))."
+  },
+  {
+   "type": "p",
+   "text": "Defendant does not ask the Court to change the legal standard for disqualification. He asks for modifications to procedure so he can present this motion on equal footing with represented parties:"
+  },
+  {
+   "type": "n",
+   "text": "That this motion be heard at the trial call, or earlier by ex parte application, despite the short time before trial, because Defendant's disabilities and the medical orders described in Tab B affected his ability to prepare and file it sooner;"
+  },
+  {
+   "type": "n",
+   "text": "That the Court excuse minor technical defects in format or service that do not prejudice Plaintiff;"
+  },
+  {
+   "type": "n",
+   "text": "That Defendant be permitted to appear by Zoom, to read from prepared notes, to take scheduled breaks, and to receive written rulings, as requested in the concurrently submitted MC-410 (Tab B)."
+  },
+  {
+   "type": "p",
+   "text": "Under rule 1.100(e), the Court must respond to an accommodation request promptly and, if denied, state its reasons in writing. Under rule 1.100(g), Defendant may seek review of a denial."
+  },
+  {
+   "type": "h3",
+   "text": "VI. Conclusion"
+  },
+  {
+   "type": "p",
+   "text": "Defendant respectfully asks the Court to grant this Emergency Motion in Limine No. 1 in full, including the requested procedural accommodations."
+  },
+  {
+   "type": "h2",
+   "text": "Declaration of Donald E. Gillson"
+  },
+  {
+   "type": "p",
+   "text": "I, Donald Ernest Gillson, declare:"
+  },
+  {
+   "type": "n",
+   "text": "I am the Defendant in this action. I have personal knowledge of the facts below, except those stated on information and belief, which I believe to be true. If called as a witness, I could and would testify competently to them."
+  },
+  {
+   "type": "n",
+   "text": "I am a 90% service-connected disabled veteran. I reside at 1030 Girard Road, Unit 301A, San Francisco, California."
+  },
+  {
+   "type": "n",
+   "text": "Swords to Plowshares [is / was] my accredited representative before the VA. A true copy of my VA Form 21-22 [and/or other proof] is attached as Exhibit A. In that role, I gave Swords to Plowshares confidential information about my disabilities, medical history, and benefits."
+  },
+  {
+   "type": "n",
+   "text": "John P. Zanghi serves on the Board of Directors of Swords to Plowshares. A true copy of [the source] is attached as Exhibit B."
+  },
+  {
+   "type": "n",
+   "text": "Mr. Zanghi signed [document name(s)] in this case as agent for Swords to Plowshares on [__________]. True copies are attached as Exhibit C."
+  },
+  {
+   "type": "n",
+   "text": "On information and belief, Zanghi Torres Adams LLP has communicated with Cooley LLP about me and That's Edutainment LLC. The basis for this belief is [describe]. A true copy is attached as Exhibit D."
+  },
+  {
+   "type": "n",
+   "text": "I learned of Mr. Zanghi's board position and verification on [__________]. Because of my disabilities, and the medical orders of October 30, 2026 described in Tab B, I needed additional time to research and prepare this motion and could not file it earlier."
+  },
+  {
+   "type": "n",
+   "text": "I have submitted confidential requests for accommodation (Form MC-410) to the court's ADA coordinator, including the request submitted with this motion."
+  },
+  {
+   "type": "n",
+   "text": "I intend to call Mr. Zanghi as a witness at trial about the facts he verified and the Board's decision to bring this action."
+  },
+  {
+   "type": "p",
+   "text": "I declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct."
+  },
+  {
+   "type": "p",
+   "text": "Executed on October 31, 2026, at San Francisco, California."
+  },
+  {
+   "type": "h2",
+   "text": "[Proposed] Order on Defendant's Emergency Motion in Limine No. 1"
+  },
+  {
+   "type": "p",
+   "text": "The Court, having considered Defendant's Emergency Motion in Limine No. 1 and the papers and arguments submitted, and good cause appearing, ORDERS:"
+  },
+  {
+   "type": "n",
+   "text": "The motion is GRANTED."
+  },
+  {
+   "type": "n",
+   "text": "John P. Zanghi and Zanghi Torres Adams LLP are DISQUALIFIED from representing Plaintiff Swords to Plowshares in this action."
+  },
+  {
+   "type": "n",
+   "text": "Evidence, testimony, or argument derived from confidential information Defendant gave Plaintiff as his accredited VA representative is EXCLUDED, subject to an Evidence Code section 402 hearing if Plaintiff seeks to offer such evidence."
+  },
+  {
+   "type": "n",
+   "text": "Disqualified counsel shall not transmit to successor counsel any work product derived from Defendant's confidential information."
+  },
+  {
+   "type": "n",
+   "text": "Trial is CONTINUED to [__________] to allow Plaintiff to substitute counsel."
+  },
+  {
+   "type": "n",
+   "text": "Defendant's requested procedural accommodations are GRANTED as follows: [__________]."
+  },
+  {
+   "type": "p",
+   "text": "IT IS SO ORDERED."
+  },
+  {
+   "type": "p",
+   "text": "Dated: [__________]    ______________________________Judge of the Superior Court"
+  },
+  {
+   "type": "h2",
+   "text": "Checklist Before Filing"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Done",
+     "Item"
+    ],
+    [
+     "☐",
+     "Submit Form MC-410 to the ADA coordinator now, separate from this motion (copy at Tab B)"
+    ],
+    [
+     "☐",
+     "Ask the Department 606 (Hon. Stephen M. Murphy) clerk: ex parte before trial, or in limine at the November 2 trial call?"
+    ],
+    [
+     "☐",
+     "Exhibit A: VA Form 21-22 or other proof that Swords to Plowshares represented Defendant before the VA"
+    ],
+    [
+     "☐",
+     "Exhibit B: proof Mr. Zanghi is a director (IRS Form 990, Secretary of State filing, or plaintiff's website)"
+    ],
+    [
+     "☐",
+     "Exhibit C: every document Mr. Zanghi signed “as agent”"
+    ],
+    [
+     "☐",
+     "Exhibit D: the Cooley LLP-related emails"
+    ],
+    [
+     "☐",
+     "Confirm the citations marked [VERIFY]"
+    ],
+    [
+     "☐",
+     "Pleading paper (rule 2.108), sign, three copies; serve counsel and file Proof of Service; bring the proposed order"
+    ]
+   ]
+  }
+ ],
+ "motionTitle": [
+  "DEFENDANT'S EMERGENCY MOTION IN LIMINE NO. 1 TO DISQUALIFY ZANGHI TORRES ADAMS LLP AS COUNSEL FOR PLAINTIFF AND TO EXCLUDE EVIDENCE DERIVED FROM DEFENDANT'S CONFIDENTIAL VA INFORMATION;",
+  "REQUEST FOR PROCEDURAL ACCOMMODATION (CAL. RULES OF COURT, RULE 1.100);",
+  "MEMORANDUM OF POINTS AND AUTHORITIES; DECLARATION OF DONALD E. GILLSON; [PROPOSED] ORDER",
+  "[Code Civ. Proc. § 128(a)(5); Evid. Code §§ 352, 402; Cal. Rules of Court, rules 1.100, 3.1112(f); Rules Prof. Conduct, rules 1.7, 3.7; 42 U.S.C. § 12132]"
+ ],
+ "brief": [
+  {
+   "type": "phase",
+   "text": "TRIAL CALL: NOVEMBER 2, 2026, 9:00 A.M., DEPARTMENT 606 (HON. STEPHEN M. MURPHY). RELATED: CCH-26-589086, CCH-26-589728. STRUCTURE: ANALYZE → DESIGN → DEVELOP → IMPLEMENT → EVALUATE."
+  },
+  {
+   "type": "h2",
+   "text": "I. Executive Summary and Reader's Map"
+  },
+  {
+   "type": "n",
+   "text": "Nature of action. Residential unlawful detainer for possession only, arising from a default judgment entered June 30, 2026 ($0.00 monetary relief) and set aside on July 22, 2026 (R08–R10)."
+  },
+  {
+   "type": "n",
+   "text": "Core defense position. The action is retaliatory on the face of plaintiff's own notice (Civ. Code § 1942.5; Gov. Code § 12955(f)); procedurally void for defective notice and defective service (Code Civ. Proc. §§ 1161, 1162, 415.45, 417.10); and prosecuted while plaintiff's management and legal agents suppressed a written disability accommodation (Cal. Rules of Court, rule 1.100; 42 U.S.C. § 3604(f)(3)(B)) and used a known traumatic brain injury and PTSD against the defendant."
+  },
+  {
+   "type": "n",
+   "text": "Record integrity. Every citation in this brief points to the ten filed court documents (R01–R10, Tab H), the verified administrative complaints (Tabs L and M), the Court's rule 1.100 responses (Tab K), or a numbered Figure in the Integrated Statement that follows (Tab A). Nothing is cited that is not in the binder."
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Part",
+     "Contents",
+     "Where the record is"
+    ],
+    [
+     "II",
+     "Chronological statement of the case, November 2025 to trial",
+     "Tab A Figs. 1–14; Tab H"
+    ],
+    [
+     "III",
+     "Line-by-line index of record irregularities (ten items)",
+     "R01, R02, R05, R10"
+    ],
+    [
+     "IV",
+     "Summary of trial exhibits by Tab",
+     "Tabs E, H–M"
+    ],
+    [
+     "V",
+     "Conclusion and relief requested",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "II. Chronological Statement of the Case"
+  },
+  {
+   "type": "h3",
+   "text": "A. Protected activity and accommodation consensus (November 2025 – March 2026)"
+  },
+  {
+   "type": "n",
+   "text": "November 20, 2025. Defendant submitted a written reasonable-accommodation request asking that communication with management be in writing by email, to accommodate service-connected TBI, PTSD and cognitive pacing (Tab A Fig. 1)."
+  },
+  {
+   "type": "n",
+   "text": "December 23, 2025. Written accommodation consensus between defendant, Joel Champion and property-management agent Kolby Losik confirming the email protocol (Tab A Fig. 2)."
+  },
+  {
+   "type": "n",
+   "text": "January 2, 2026. Agent Losik told defendant to “stop with the f—ing emails, or else,” penalizing the accommodated channel itself. Board of Behavioral Sciences complaints Nos. 2002026002097 and 2002026002098 were initiated against staff (Tab M)."
+  },
+  {
+   "type": "n",
+   "text": "January 3, 2026. Confrontation with property manager William Landrum following unaddressed pest infestation (SF 311 Case 101003004371; Tab L)."
+  },
+  {
+   "type": "n",
+   "text": "February 25, 2026. Defendant petitioned this Court for an elder/dependent-adult abuse restraining order against the assistant property manager (CCH-26-589086; hearing March 19, 2026)."
+  },
+  {
+   "type": "box",
+   "text": "Statutory significance. Under Civil Code § 1942.5, subd. (a), a notice to quit served within 180 days of a habitability complaint to the landlord or an agency, or of a tenant's lawful exercise of rights, is presumptively retaliatory; the landlord bears the burden of proving a non-retaliatory purpose. Every event in Part II.A falls inside that window."
+  },
+  {
+   "type": "h3",
+   "text": "B. The facially retaliatory April 8, 2026 notice to quit (R01 pp. 33–35)"
+  },
+  {
+   "type": "n",
+   "text": "Express retaliatory grounds. The three-page notice cites defendant's February 25 restraining-order petition and March 19 court appearance as grounds, and penalizes “over one thousand (1,000) lengthy emails” — the written channel agreed in December 2025 (Tab A Figs. 3–4)."
+  },
+  {
+   "type": "n",
+   "text": "Contradictory exemptions. Page 3 of the notice asserts the tenancy is “exempt from the provisions of the San Francisco Residential Rent Stabilization and Arbitration Ordinance,” while the complaint (Attachment 18) pleads that the tenancy is subject to just-cause requirements for federally subsidized housing."
+  },
+  {
+   "type": "n",
+   "text": "Premature publication. The notice was copied to the San Francisco Housing Authority and HSH before any adjudication."
+  },
+  {
+   "type": "h3",
+   "text": "C. The defective complaint and its verification (R01, filed May 5, 2026)"
+  },
+  {
+   "type": "n",
+   "text": "Verified by the accused agent. The complaint was verified May 4, 2026 by Jerome Bradford as an “authorized employee” with personal knowledge. The verification names the defendant “Donald Gillison,” carries a recycled attorney block for Andrew Wong dated January 19, 2025, and states conflicting rent figures ($1,500/mo. against a $1,126/mo. subsidy breakdown) (Tab A Fig. 5)."
+  },
+  {
+   "type": "n",
+   "text": "Missing Exhibit 3. The complaint pleads that proof of service of the notice is attached as Exhibit 3. Pages 36–54 contain HUD VAWA forms and the Mayor's Office eviction-prevention insert. No proof of service of the notice appears (Tab A Fig. 6)."
+  },
+  {
+   "type": "h3",
+   "text": "D. Service by posting and premature default (R02, R03, R05)"
+  },
+  {
+   "type": "n",
+   "text": "No reasonable diligence. On May 19, 2026 plaintiff applied ex parte for service by posting (Code Civ. Proc. § 415.45) two days after defendant's Answer dated May 17, 2026 was tendered, and while plaintiff's counsel was corresponding with defendant in the related restraining-order proceeding (Tab A Fig. 7)."
+  },
+  {
+   "type": "n",
+   "text": "Impossible declaration. The process server's declaration (Joseph Falanga, Spirit Courier) is dated May 11, 2026 and swears to an attempt on May 12, 2026 at 6:06 p.m. — a future event attested under penalty of perjury (Pen. Code § 118; Code Civ. Proc. § 2015.5) (Tab A Fig. 8)."
+  },
+  {
+   "type": "n",
+   "text": "No service on the named defendant. The only POS-010 in the record names “All Unnamed Occupants.” No POS-010 naming Donald Ernest Gillson was ever filed; the June 30, 2026 entry of default is void on its face (Tab A Figs. 9–10)."
+  },
+  {
+   "type": "n",
+   "text": "Clerk rejection and same-day judgment. On June 10, 2026 the clerk notified the parties that the default paperwork was incomplete. Without curing service, plaintiff refiled June 30, 2026 and obtained judgment for possession the same day (Tab A Fig. 11)."
+  },
+  {
+   "type": "h3",
+   "text": "E. Emergency stay, vacation of default, preservation of defenses (R08–R10)"
+  },
+  {
+   "type": "n",
+   "text": "July 7, 2026: emergency ex parte application. July 8, 2026: Hon. Charles F. Haines stayed execution of the writ through July 22, 2026 and set the motion to vacate (Tab A Fig. 12)."
+  },
+  {
+   "type": "n",
+   "text": "July 22, 2026: default set aside. August 27, 2026: the Court preserved the affirmative defenses of retaliation, habitability, failure to accommodate and unclean hands for trial (Tab A Figs. 13–14)."
+  },
+  {
+   "type": "h2",
+   "text": "III. Line-by-Line Index of Record Irregularities"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "No.",
+     "Document / line",
+     "Irregularity",
+     "Offense / consequence"
+    ],
+    [
+     "1",
+     "R01 (notice proof)",
+     "Both “copy given to person residing” and “no person found” are checked.",
+     "Internally contradictory return; Code Civ. Proc. § 1162; Pen. Code § 118."
+    ],
+    [
+     "2",
+     "R01 (notice dates)",
+     "Served April 8; expired April 16.",
+     "Short of the HUD/24 C.F.R. part 247 notice period for subsidized tenancies."
+    ],
+    [
+     "3",
+     "R01 (notice content)",
+     "No specific statement of grounds; no ten-day meeting notice.",
+     "24 C.F.R. § 247.4; Gersten Companies v. Deloney (1989) 212 Cal.App.3d 1119."
+    ],
+    [
+     "4",
+     "R01 (UD-100 item 7)",
+     "Marked so as to state that no proper notice was served.",
+     "Judicial admission on the face of the complaint."
+    ],
+    [
+     "5",
+     "R01 (verification)",
+     "Verified by Jerome Bradford; names “Donald Gillison.”",
+     "Code Civ. Proc. §§ 446, 1166(a)(1); pleading subject to strike."
+    ],
+    [
+     "6",
+     "R02 (Falanga decl.)",
+     "Signed May 11, 2026; attests to attempt May 12, 2026, 6:06 p.m.",
+     "Declaration of a future event under penalty of perjury; Pen. Code § 118."
+    ],
+    [
+     "7",
+     "R02 (diligence)",
+     "Omits known email, phone and courtroom contact.",
+     "Code Civ. Proc. § 415.45; Evartt v. Superior Court (1979) 89 Cal.App.3d 795."
+    ],
+    [
+     "8",
+     "R02 (order)",
+     "No signed order authorizing posting appears in the file.",
+     "Posting without prior order is ineffective."
+    ],
+    [
+     "9",
+     "R05 (POS-010)",
+     "Names only “All Unnamed Occupants.”",
+     "No service on the named defendant; Code Civ. Proc. §§ 417.10, 1169."
+    ],
+    [
+     "10",
+     "R10 (P&A signature)",
+     "Signed by plaintiff's counsel as “Attorneys for Defendant.”",
+     "Rules Prof. Conduct, rule 1.7; at minimum a defective filing."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "IV. Summary of Trial Exhibits"
+  },
+  {
+   "type": "table",
+   "rows": [
+    [
+     "Tab",
+     "Contents"
+    ],
+    [
+     "A",
+     "Opening Notice; this Trial Brief; Integrated Statement with Figures 1–14 and twelve checkpoints."
+    ],
+    [
+     "E",
+     "Audio-visual exhibits: two verified video suites (V-01–V-07; second suite V-01–V-06): property-level hostility, habitability collapse, resident-advisor statement, process-server conduct."
+    ],
+    [
+     "H",
+     "The filed court record, R01–R10: notice, complaint, posting application, default, judgment, stay, vacatur."
+    ],
+    [
+     "I",
+     "Notice to counsel and civil subpoenas duces tecum: William Landrum, Jerome Bradford, John P. Zanghi, Francisco G. Torres, Michael Blecker (Swords to Plowshares), SFDPH Healthy Housing custodian, Court ADA Coordinator."
+    ],
+    [
+     "J",
+     "MC-410 and confidential medical records, including John Muir Health emergency-department records of October 30, 2026 (rule 1.100(c)(4))."
+    ],
+    [
+     "K",
+     "Twenty rule 1.100 responses and orders, July 20 – October 14, 2026."
+    ],
+    [
+     "L",
+     "Evidence exhibit binder, categories A–K: infestation, service-animal injuries, medical, vehicle, APS/311 reports."
+    ],
+    [
+     "M",
+     "Administrative complaints: BBS Nos. 2002026002097 (Losik) and 2002026002098 (Villalobos)."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "V. Conclusion and Relief Requested"
+  },
+  {
+   "type": "n",
+   "text": "Plaintiff has not established a lawful predicate notice, has not effected valid service on the named defendant, and brought this summary proceeding within 180 days of protected habitability complaints, accommodation requests and judicial petitions (Civ. Code § 1942.5)."
+  },
+  {
+   "type": "n",
+   "text": "Defendant asks that the Court enter judgment for defendant; dismiss the complaint; confirm that the June 30, 2026 default and judgment were void when entered; award the statutory retaliation remedy and costs (Civ. Code § 1942.5, subds. (h), (i)); and continue every rule 1.100 accommodation now in force for all remaining proceedings."
+  }
+ ],
+ "briefTitle": [
+  "MASTER INTEGRATED STATEMENT OF THE CASE AND TRIAL BRIEF;",
+  "RECORD CROSS-REFERENCE (R01–R10) AND LINE-BY-LINE INDEX OF RECORD IRREGULARITIES;",
+  "SUMMARY OF TRIAL EXHIBITS (TABS A–M) AND RELIEF REQUESTED"
+ ]
+}
