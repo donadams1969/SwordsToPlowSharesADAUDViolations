@@ -20,7 +20,7 @@ from build import CATEGORIES
 from build_binders import WITNESSES, ADA_EXHIBITS, make_mc410, make_subpoena, medical_exhibit, compress_scans
 from build_final import cover_sol
 
-B4DIR = "/tmp/b4"; VIDEO_DIR = os.path.join(B4DIR, "Binder4_Videos"); STILLS = os.path.join(B4DIR, "stills")
+B4DIR = "/tmp/b4"; VIDEO_DIR = os.path.join(B4DIR, "Binder3_Videos"); STILLS = os.path.join(B4DIR, "stills")
 OUT = {n: os.path.join(ART, f) for n, f in {
     1: "Gillson_FINAL_Binder1_Statement_of_the_Case.pdf", 2: "Gillson_FINAL_Binder2_Motions.pdf",
     3: "Gillson_FINAL_Binder3_Witness_List_and_Subpoenas.pdf", 4: "Gillson_FINAL_Binder4_Evidence_Photos_and_Videos.pdf",
@@ -192,9 +192,9 @@ def video_slips():
         else:
             flow += [P("Audio-only recording \u2013 no video frame exists.", small), Spacer(1, 6)]
         if r["kind"] == "duplicate":
-            fn = f"Binder4_Videos/{r['duplicate_of']}.mp4 (byte-identical to Ex. {r['duplicate_of']}; same SHA-256; not duplicated in the ZIP)"
+            fn = f"Binder3_Videos/{r['duplicate_of']}.mp4 (byte-identical to Ex. {r['duplicate_of']}; same SHA-256; not duplicated in the ZIP)"
         else:
-            fn = f"Binder4_Videos/{r['filename']}"
+            fn = f"Binder3_Videos/{r['filename']}"
         rows = [["Field", "Detail"], ["Exhibit no.", ex], ["Type", kind], ["Filename (in ZIP)", fn],
                 ["Duration", fmt_dur(r.get("duration")) if r["kind"] != "image" else "n/a (still image)"],
                 ["Date / time recorded", local or "Not embedded in file metadata; designated and served Oct. 29, 2026 (see Tab D notices)"],
@@ -224,7 +224,7 @@ def evidentiary_index(path, photos, vids, bates):
                            ("TOPPADDING", (0, 0), (-1, -1), 3), ("BOTTOMPADDING", (0, 0), (-1, -1), 3), ("LEFTPADDING", (0, 0), (-1, -1), 3), ("RIGHTPADDING", (0, 0), (-1, -1), 3)]))
     return rl([P("EVIDENTIARY INDEX \u2013 PHOTOGRAPHS AND AUDIO-VISUAL EXHIBITS", h1),
                P("Evidence Code foundations: photographs and digital images \u2014 \u00a7\u00a7 1400, 1401, 1410-1413, 1552-1553; writings (incl. video and photographs) \u2014 \u00a7 250. "
-                 "The notices served Oct. 29-30, 2026 (Exs. 72-91) are indexed in the Master Index under Tab D. Videos are in the ZIP folder Binder4_Videos, named by exhibit number.", small),
+                 "The notices served Oct. 29-30, 2026 (Exs. 72-91) are indexed in the Master Index under Tab D. Videos are in the ZIP folder Binder3_Videos, named by exhibit number.", small),
                Spacer(1, 6), t], path, "Evidentiary Index")
 
 
@@ -362,11 +362,11 @@ if __name__ == "__main__":
         b4 = [("A", "Evidentiary Index and Foundation Declaration", [("Evidentiary index table (Exhibit | Description | Date | Type | Evidence Code basis | Bates)", idx, "IDX", "nosheet"),
                                                                     ("Declaration of Donald Ernest Gillson authenticating Exhibits 1-92 (as originally served)", decl)]),
               ("B", "Photographic Exhibits \u2013 Exhibits 1-71 (full color)", photo_items),
-              ("C", "Audio-Visual Exhibits \u2013 Slip Sheets (files in ZIP folder Binder4_Videos)", [("Audio-visual exhibit list and publication plan", tabE)] + vid_items),
+              ("C", "Audio-Visual Exhibits \u2013 Slip Sheets (files in ZIP folder Binder3_Videos)", [("Audio-visual exhibit list and publication plan", tabE)] + vid_items),
               ("D", "Evidentiary Notices Served on Opposing Counsel, Oct. 29-30, 2026 (Exhibits 72-91, as served)", [("Evidentiary notices and video designations as served (Exs. 72-91)", notices_old)])]
         n4 = assemble(4, cover(4, os.path.join(TMP, "set_cover4.pdf"), ["EVIDENCE", "PHOTOGRAPHS AND VIDEOS"], CASE,
                                "All photographs reproduced in full color (no grayscale, no lossy color reduction), each with exhibit number, description, date and time taken, source, and Evidence Code authentication basis. "
-                               "PDF cannot play video: each recording has a slip sheet with a still frame, filename, duration, date, description, Evidence Code basis and SHA-256 hash; the files are in the ZIP folder Binder4_Videos, named by exhibit number."),
+                               "PDF cannot play video: each recording has a slip sheet with a still frame, filename, duration, date, description, Evidence Code basis and SHA-256 hash; the files are in the ZIP folder Binder3_Videos, named by exhibit number."),
                       b4, FOOT + "Binder 4 \u2013 Evidence")
         cur = {}
         for lab, rng_ in BATES[4].items():
